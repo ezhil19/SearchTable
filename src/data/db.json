@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "show_name": "Test Ver",
+    "shot_name": "abc_ded_1200_bg_edit_exampledsfdsffsd",
+    "service_type_id": 1,
+    "date": "2019-01-31"
+  },
+  {
+    "id": 2,
+    "show_name": "TestBot",
+    "shot_name": "bot_1200_bg_edit_exampledsfdsffsd",
+    "service_type_id": 1,
+    "date": "2019-01-14"
+  },
+  {
+    "id": 3,
+    "show_name": "CORTest",
+    "shot_name": "WetpDigital",
+    "service_type_id": 2,
+    "date": "2020-02-14"
+  },
+  {
+    "id": 4,
+    "show_name": "TWeets_orp",
+    "shot_name": "t_Digital",
+    "service_type_id": 3,
+    "date": "2020-01-19"
+  },
+  {
+    "id": 5,
+    "show_name": "fb_Reels",
+    "shot_name": "Reel_Digital",
+    "service_type_id": 3,
+    "date": "2021-03-19"
+  },
+  {
+    "id": 6,
+    "show_name": "insta_Reels",
+    "shot_name": "insta_Digital",
+    "service_type_id": 4,
+    "date": "2022-01-09"
+  }
+]
